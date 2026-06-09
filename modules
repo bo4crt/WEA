@@ -3,7 +3,7 @@
 
 ---
 
-## 🎯 Learning Objectives
+## Learning Objectives
 By the end of this module, learners will be able to:
 - Understand what Python is and where it’s used.
 - Write and run simple Python commands.
@@ -12,24 +12,22 @@ By the end of this module, learners will be able to:
 
 ---
 
-## 🧠 Overview
+## Overview
 Python is one of the most accessible programming languages for beginners.  
 It’s used in web development, data analysis, automation, and artificial intelligence.  
 This module introduces Python syntax and helps learners build a foundation for further study.
 
 ---
 
-## 🧩 Lesson Outline
+## Lesson Outline
 1. **Getting Started**
-   - Installing Python or using an online editor (e.g., Replit, Jupyter Notebook).
+   - Installing Python or using an online editor.
    - Writing your first line of code:  
-     ```python
      print("Hello, world!")
-     ```
 
 2. **Variables and Data Types**
    - Storing information with variables.  
-     ```python
+
      name = "Basit"
      age = 21
      ```
@@ -40,16 +38,15 @@ This module introduces Python syntax and helps learners build a foundation for f
      ```python
      total = 5 + 3
      print("Total:", total)
-     ```
+     
 
 4. **Decision Making**
    - Using `if` statements to make choices.  
-     ```python
+
      if age >= 18:
          print("You’re an adult.")
      else:
          print("You’re under 18.")
-     ```
 
 5. **Practice Challenge**
    - Ask learners to create a short program that greets the user and calculates their age in months.
@@ -63,13 +60,13 @@ Work in pairs to:
 
 ---
 
-## 📈 Reflection
+##  Reflection
 - What part of Python felt easiest to understand?
 - What would you like to learn next?
 
 ---
 
-## 🧩 Next Steps
+## Next Steps
 Continue with **[Digital Safety Basics](ca://s?q=Create_learning_modules_for_my_repo)** or explore **[Learner Progress Tracker](ca://s?q=Create_a_learner_progress_tracker)** to monitor your learning progress.
 
 ---
